@@ -44,15 +44,23 @@ Operation:
 
 Project Contributors:
 
+    Prabhu P
     Pramod Krishnaa D
     Vignaraj D
     Tharun Kailash K
-    Prabhu P
     Samson Roch
 
-License:
+## Contributing
+Contributions are welcome! If you would like to contribute to the development of the Wreck Buddy Project, please follow these steps:
 
-This project is licensed under the MIT License. Feel free to use and modify the code for your own projects. Contributions are welcome.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Submit a pull request with a clear description of the changes.
+5. Please ensure that your code adheres to the project's coding standards and includes appropriate documentation.
 
-For detailed instructions on configuring and operating the system, please refer to the project documentation and code comments. If you encounter any issues or have questions, feel free to reach out to the project contributors.
-ChatGPT can make mistakes. Consider chec
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For questions or feedback, please reach out to me at prabhupugal01@gmail.com.
